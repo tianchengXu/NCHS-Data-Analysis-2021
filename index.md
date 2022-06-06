@@ -42,4 +42,5 @@ Note: All charts, including maps, are designed to be dynamic and can be interact
 
 
 
-### Link to the Tableau dashboard: https://public.tableau.com/app/profile/tiancheng.xu/viz/NationalHealthcareDataAnalysis/NationalHealthcareDataAnalysis
+### Link to the Tableau dashboard
+https://public.tableau.com/app/profile/tiancheng.xu/viz/NationalHealthcareDataAnalysis/NationalHealthcareDataAnalysis
