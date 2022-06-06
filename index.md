@@ -12,7 +12,7 @@ To develope a series of dashboards based on 550k+ data from NCHS (National Cente
 
 ## Tableau Dashboards
 
-Note: All charts are built to be dynamic and can be interacted with as filters.
+Note: All charts, including maps, are designed to be dynamic and can be interacted with as filters.
 
 ### Patient Overview
 
