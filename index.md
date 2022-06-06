@@ -6,10 +6,13 @@ Tiancheng Xu, Pinchao Chen, Gloria Wang, Shreya Deshmukh, Pranav Gupta
 
 December, 2021
 
-### Goal
+## Goal
 
 To develope a series of dashboards based on 550k+ data from NCHS (National Center for Health Statistics) during COVID-19 using Tableau; to visualize and to analyze nationwide patient demographics, drug consumption and trends in top diagnoses; to undetstand state-wise operational efficiency by healthcare specification, and to discover opportunities for operation improvement and geographic areas that require attention.
 
+## Tableau Dashboards
+
+Note: All charts are built to be dynamic and can be interacted with as filters.
 
 ### Patient Overview
 
