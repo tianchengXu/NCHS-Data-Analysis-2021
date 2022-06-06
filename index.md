@@ -36,7 +36,8 @@ Note: All charts are built to be dynamic and can be interacted with as filters.
 
 ### Payer Type Analysis
 
-<img width="1071" alt="image" src="https://user-images.githubusercontent.com/63265930/172225568-4583a117-4d20-428f-8282-1792a6ca151b.png">
+<img width="1081" alt="image" src="https://user-images.githubusercontent.com/63265930/172226051-ccc88ec9-f448-4f3a-a632-0a9f053a502c.png">
+
 
 
 
