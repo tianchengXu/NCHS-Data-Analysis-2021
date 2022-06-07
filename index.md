@@ -42,6 +42,5 @@ Another aspect of the operations is illustrated by The Operation Efficiency Anal
 One thing that is also important for the management to look into is the payment type. The Payer Type Analysis dashboard helps the management understand payments by illustrating how payer type changes over time and how it relates to age groups, geographic features, gender by using different types of charts with filters. The dashboard also includes how possibly payer type is associated with the actual pandemic environment.
 
 
-
 ### Link to the Tableau dashboard
 https://public.tableau.com/app/profile/tiancheng.xu/viz/NationalHealthcareDataAnalysis/NationalHealthcareDataAnalysis
